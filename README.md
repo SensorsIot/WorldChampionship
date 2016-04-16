@@ -1,2 +1,3 @@
 # WorldChampionship
-Comparison Execution Speed of Arduino IDE Compatible Boards
+Comparison of Execution Speed for Arduino IDE Compatible Boards
+My personal benchmark, no standard used
