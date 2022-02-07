@@ -79,7 +79,7 @@ void loop() {
   for (long i = 0; i < loops; i++) {
 
     tt = 5000.0 * aa / i;
-   /* pinMode(testPin, OUTPUT);
+    pinMode(testPin, OUTPUT);
     digitalWrite(testPin, LOW);
     digitalWrite(testPin, HIGH);
 
@@ -92,7 +92,6 @@ void loop() {
     {
       tt = 554 % 12;
     }
-    */
   }
 
   //----------- Raise the flag
